@@ -1,0 +1,18 @@
+{
+  "name": "gov-sites",
+  "version": "1.0.0",
+  "description": "Annuaire non officiel des sites .gouv.fr et des services publics nationaux",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "test:coverage": "node --test --experimental-test-coverage",
+    "build-data": "node scripts/build-data.mjs",
+    "build-site": "node scripts/build-site.mjs",
+    "serve": "node scripts/serve.mjs"
+  },
+  "license": "MIT"
+}

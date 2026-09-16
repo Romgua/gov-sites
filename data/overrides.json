@@ -1,0 +1,14 @@
+{
+ "exclude": [],
+ "categories": {
+  "service-public.gouv.fr": "institutions",
+  "impots.gouv.fr": "finances",
+  "economie.gouv.fr": "finances",
+  "franceconnect.gouv.fr": "numerique",
+  "data.gouv.fr": "numerique",
+  "beta.gouv.fr": "numerique",
+  "legifrance.gouv.fr": "justice",
+  "ants.gouv.fr": "transports",
+  "info.gouv.fr": "institutions"
+ }
+}

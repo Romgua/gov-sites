@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; base-uri 'none'; form-action 'none'; object-src 'none'">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <meta name="description" content="Annuaire non officiel des sites .gouv.fr et des services publics nationaux, avec recherche et filtres par catégorie.">
+  <title>Annuaire des sites publics</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3Cpath fill='%23000091' d='M0 0h1v2H0z'/%3E%3Cpath fill='%23fff' d='M1 0h1v2H1z'/%3E%3Cpath fill='%23e1000f' d='M2 0h1v2H2z'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="assets/style.css">
+  <script type="module" src="assets/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#results">Aller aux résultats</a>
+
+  <header class="header">
+    <div class="container">
+      <p class="header__title">Annuaire des sites publics</p>
+      <p class="header__tagline">Sites .gouv.fr et services publics nationaux</p>
+    </div>
+  </header>
+
+  <div class="notice" role="note">
+    <div class="container">
+      Site personnel <strong>non officiel</strong>, sans lien avec l'État. Liste générée automatiquement,
+      elle peut contenir des erreurs.
+    </div>
+  </div>
+
+  <main class="container main">
+    <h1 class="visually-hidden">Annuaire des sites publics français</h1>
+
+    <noscript>
+      <p class="alert">Cette page a besoin de JavaScript pour afficher et filtrer la liste.
+        Les données brutes sont disponibles dans <a href="data/sites.json">data/sites.json</a>.</p>
+    </noscript>
+
+    <div class="tabs" role="tablist" aria-label="Type de sites" id="tabs"></div>
+
+    <section class="panel" id="panel" role="tabpanel" tabindex="-1">
+      <div class="search">
+        <label class="label" for="search-input">Rechercher un site</label>
+        <input class="input" id="search-input" type="search" autocomplete="off"
+               placeholder="Ex. : impôts, carte grise, retraite" aria-describedby="result-count">
+      </div>
+
+      <fieldset class="filters">
+        <legend class="label">Catégories</legend>
+        <div class="filters__list" id="filters"></div>
+        <button class="button button--link" type="button" id="clear-filters" hidden>Effacer les filtres</button>
+      </fieldset>
+
+      <p class="result-count" id="result-count" aria-live="polite" role="status">Chargement…</p>
+
+      <ul class="cards" id="results" tabindex="-1"></ul>
+      <div class="more">
+        <button class="button" type="button" id="show-more" hidden>Afficher plus</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      Données : <a href="https://github.com/etalab/noms-de-domaine-organismes-secteur-public">liste des noms de domaine
+      des organismes publics</a> (DINUM), vérifiées chaque semaine.
+      Code source : <a href="https://github.com/Romgua/gov-sites">github.com/Romgua/gov-sites</a>.
+    </div>
+  </footer>
+</body>
+</html>
