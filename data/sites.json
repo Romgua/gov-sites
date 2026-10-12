@@ -38,6 +38,15 @@
    "verified": true
   },
   {
+   "domain": "aab.plainte-en-ligne.masecurite.interieur.gouv.fr",
+   "url": "https://aab.plainte-en-ligne.masecurite.interieur.gouv.fr/accueil",
+   "title": "Accueil - Parcours Plainte en ligne",
+   "description": "",
+   "category": "justice",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "aca.stac.aviation-civile.gouv.fr",
    "url": "https://aca.stac.aviation-civile.gouv.fr/",
    "title": "ACA - Home",
@@ -133,6 +142,15 @@
    "title": "Activité partielle - APART",
    "description": "",
    "category": "emploi",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "adage-pr.phm.education.gouv.fr",
+   "url": "https://adage-pr.phm.education.gouv.fr/ds/",
+   "title": "Choix du fournisseur d'identité",
+   "description": "",
+   "category": "education",
    "group": "gouv",
    "verified": true
   },
@@ -335,6 +353,15 @@
    "verified": true
   },
   {
+   "domain": "aide.cfas.apprentissage.beta.gouv.fr",
+   "url": "https://aide.cfas.apprentissage.beta.gouv.fr/fr/",
+   "title": "Aide Tableau de bord de l'apprentissage",
+   "description": "",
+   "category": "emploi",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "aide.conseiller-numerique.gouv.fr",
    "url": "https://aide.conseiller-numerique.gouv.fr/fr/",
    "title": "Conseiller Numérique",
@@ -425,33 +452,6 @@
    "verified": true
   },
   {
-   "domain": "allier.gouv.fr",
-   "url": "https://www.allier.gouv.fr/",
-   "title": "Préfecture : Allier",
-   "description": "",
-   "category": "territoires",
-   "group": "gouv",
-   "verified": false
-  },
-  {
-   "domain": "alpes-de-haute-provence.gouv.fr",
-   "url": "https://www.alpes-de-haute-provence.gouv.fr/",
-   "title": "Préfecture : Alpes-de-Haute-Provence",
-   "description": "",
-   "category": "territoires",
-   "group": "gouv",
-   "verified": false
-  },
-  {
-   "domain": "alpes-maritimes.gouv.fr",
-   "url": "https://www.alpes-maritimes.gouv.fr/",
-   "title": "Préfecture : Alpes-Maritimes",
-   "description": "",
-   "category": "territoires",
-   "group": "gouv",
-   "verified": false
-  },
-  {
    "domain": "alpha-sierra.sigp.aviation-civile.gouv.fr",
    "url": "https://alpha-sierra.sigp.aviation-civile.gouv.fr/",
    "title": "Accueil | Alpha Sierra",
@@ -466,6 +466,15 @@
    "title": "L'Atelier des territoires | Aménagement durable",
    "description": "L'Atelier des territoires est une démarche qui accompagne les acteurs locaux pour définir et construire un projet d’aménagement en faveur de la transition écologique. Des séances d’ateliers participatifs invitent élus, techniciens de l’État et des collectivités, porteurs de projets et habitants à p…",
    "category": "environnement",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "amia.phm.education.gouv.fr",
+   "url": "https://amia.phm.education.gouv.fr/amia/",
+   "title": "Bienvenue sur l'application AMIA",
+   "description": "",
+   "category": "education",
    "group": "gouv",
    "verified": true
   },
@@ -511,6 +520,15 @@
    "title": "Accueil - AnDEs",
    "description": "",
    "category": "sante",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "andv.gouv.fr",
+   "url": "https://www.andv.gouv.fr/fr/",
+   "title": "Accueil | agence nationale des données de voyage",
+   "description": "Bienvenue sur la page d’accueil de l’agence nationale des données de voyage (ANDV), en charge de la collecte et de l’exploitation des données de voyage.",
+   "category": "autres",
    "group": "gouv",
    "verified": true
   },
@@ -609,6 +627,15 @@
    "url": "https://aplus.beta.gouv.fr/",
    "title": "La messagerie des professionnels des services publics | Administration+",
    "description": "Administration+ est la messagerie qui met en relation les professionnels des services publics pour résoudre les blocages administratifs urgents et/ou complexes des citoyens.",
+   "category": "numerique",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "aplypro.beta.gouv.fr",
+   "url": "https://aplypro.beta.gouv.fr/login",
+   "title": "Connexion à APLyPro - APLyPro",
+   "description": "",
    "category": "numerique",
    "group": "gouv",
    "verified": true
@@ -956,18 +983,18 @@
    "verified": false
   },
   {
-   "domain": "audience.gouv.fr",
-   "url": "https://www.audience.gouv.fr/",
-   "title": "audience.gouv.fr",
-   "description": "",
-   "category": "autres",
-   "group": "gouv",
-   "verified": false
-  },
-  {
    "domain": "audioconf.numerique.gouv.fr",
    "url": "https://audioconf.numerique.gouv.fr/",
    "title": "AudioConf",
+   "description": "",
+   "category": "numerique",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "audit.incubateur.anct.gouv.fr",
+   "url": "https://audit.incubateur.anct.gouv.fr/",
+   "title": "Comptoir - Incubateur des Territoires (ANCT)",
    "description": "",
    "category": "numerique",
    "group": "gouv",
@@ -983,11 +1010,11 @@
    "verified": true
   },
   {
-   "domain": "authentification.din.developpement-durable.gouv.fr",
-   "url": "https://authentification.din.developpement-durable.gouv.fr/cas/3/login",
-   "title": "Maintenance en cours",
+   "domain": "authentication.psc.bi.esante.gouv.fr",
+   "url": "https://authentication.psc.bi.esante.gouv.fr/oauth/",
+   "title": "Authentication",
    "description": "",
-   "category": "environnement",
+   "category": "autres",
    "group": "gouv",
    "verified": true
   },
@@ -1280,6 +1307,15 @@
    "verified": true
   },
   {
+   "domain": "biodiversite.gouv.fr",
+   "url": "https://biodiversite.gouv.fr/",
+   "title": "Accueil - Biodiversité.gouv.fr",
+   "description": "Découvrir la biodiversité en France, comprendre les principaux enjeux de préservation des écosystèmes, rencontrer ceux qui agissent pour la protection des espèces et des milieux et rejoindre la mobilisation générale.",
+   "category": "environnement",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "bison-fute.gouv.fr",
    "url": "https://www.bison-fute.gouv.fr/",
    "title": "Accueil - Bison Futé",
@@ -1416,7 +1452,7 @@
   },
   {
    "domain": "brexit.gouv.fr",
-   "url": "https://brexit.gouv.fr/sites/brexit/accueil.html",
+   "url": "https://www.brexit.gouv.fr/sites/brexit/accueil.html",
    "title": "Accueil - brexit",
    "description": "",
    "category": "autres",
@@ -1528,6 +1564,15 @@
    "title": "Espace Conseiller Numérique",
    "description": "espace candidat",
    "category": "numerique",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "candidature-formation.insp.gouv.fr",
+   "url": "https://candidature-formation.insp.gouv.fr/registration/",
+   "title": "Portail d'inscription en ligne",
+   "description": "",
+   "category": "emploi",
    "group": "gouv",
    "verified": true
   },
@@ -1920,7 +1965,7 @@
   },
   {
    "domain": "cites.site-ecole.din.developpement-durable.gouv.fr",
-   "url": "https://cites.site-ecole.din.developpement-durable.gouv.fr/accueil.do;jsessionid=06646E6383764BBE7A5A96F8EAF4BA35.tc_cites_172_120",
+   "url": "https://cites.site-ecole.din.developpement-durable.gouv.fr/accueil.do;jsessionid=1736114BDFDC4671D2AED55A078FEBCD.tc_cites_172_120",
    "title": "Accueil - I-CITES",
    "description": "",
    "category": "education",
@@ -1937,11 +1982,38 @@
    "verified": true
   },
   {
+   "domain": "cloud.cert.esante.gouv.fr",
+   "url": "https://cloud.cert.esante.gouv.fr/login",
+   "title": "S’identifier – CERT Santé - Cloud",
+   "description": "",
+   "category": "sante",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "cloud.ensm.sports.gouv.fr",
+   "url": "https://cloud.ensm.sports.gouv.fr/index.php/login",
+   "title": "S’identifier – Ecole Nationale des Sports de Montagne",
+   "description": "Espace de partage ENSM",
+   "category": "culture",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "cloud.numerique.gouv.fr",
    "url": "https://cloud.numerique.gouv.fr/",
    "title": "Metabase",
    "description": "",
    "category": "numerique",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "club-plui.logement.gouv.fr",
+   "url": "https://www.club-plui.logement.gouv.fr/",
+   "title": "Maintenance en cours",
+   "description": "",
+   "category": "logement",
    "group": "gouv",
    "verified": true
   },
@@ -1978,15 +2050,6 @@
    "title": "Accueil | Conseil national de l’information géolocalisée",
    "description": "",
    "category": "autres",
-   "group": "gouv",
-   "verified": true
-  },
-  {
-   "domain": "cnriph.sante.gouv.fr",
-   "url": "https://cnriph.sante.gouv.fr/",
-   "title": "SI CNRIPH",
-   "description": "",
-   "category": "sante",
    "group": "gouv",
    "verified": true
   },
@@ -2180,6 +2243,15 @@
    "verified": true
   },
   {
+   "domain": "confamb.diplomatie.gouv.fr",
+   "url": "https://confamb.diplomatie.gouv.fr/Closed.aspx",
+   "title": "Conférence des Ambassadrices et des Ambassadeurs",
+   "description": "",
+   "category": "defense",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "connexion-api-moa.douane.gouv.fr",
    "url": "https://connexion-api-moa.douane.gouv.fr/",
    "title": "Veuillez vous authentifier | Portail de la Direction Générale des Douanes et Droits Indirects",
@@ -2230,6 +2302,15 @@
    "title": "MinIO Console",
    "description": "MinIO Console",
    "category": "numerique",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "consulat.gouv.fr",
+   "url": "https://consulat.gouv.fr/",
+   "title": "Troov Ton Créneau - Solution De Prise De Rendez-vous",
+   "description": "Solution de prise de rendez-vous des consulats",
+   "category": "defense",
    "group": "gouv",
    "verified": true
   },
@@ -2333,20 +2414,20 @@
    "verified": true
   },
   {
-   "domain": "coop-numerique.anct.gouv.fr",
-   "url": "https://coop-numerique.anct.gouv.fr/",
-   "title": "La Coop de la médiation numérique",
-   "description": "La Coop de la médiation numérique",
-   "category": "numerique",
-   "group": "gouv",
-   "verified": true
-  },
-  {
    "domain": "cordouan.culture.gouv.fr",
    "url": "https://cordouan.culture.gouv.fr/fr",
    "title": "Le phare de Cordouan",
    "description": "Le phare de Cordouan, situé à l’embouchure de l’estuaire de la Gironde, est un chef-d’œuvre de notre patrimoine architectural et technique, en activité depuis quatre siècle, il est classé au titre des monuments historiques.",
    "category": "culture",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "correcteur.examens-concours.gouv.fr",
+   "url": "https://correcteur.examens-concours.gouv.fr/cyccorrecteur/portal/",
+   "title": "Identification Cyclades",
+   "description": "",
+   "category": "autres",
    "group": "gouv",
    "verified": true
   },
@@ -2513,6 +2594,15 @@
    "verified": true
   },
   {
+   "domain": "cvec-rectorat.etudiant.gouv.fr",
+   "url": "https://cvec-rectorat.etudiant.gouv.fr/login",
+   "title": "Admin",
+   "description": "",
+   "category": "education",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "cvec.etudiant.gouv.fr",
    "url": "https://cvec.etudiant.gouv.fr/",
    "title": "Accueil - CVEC, Contribution de vie étudiante et de campus",
@@ -2554,6 +2644,15 @@
    "title": "Se connecter — API Entreprise",
    "description": "",
    "category": "entreprises",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "dashboards-builder.donnees.incubateur.anct.gouv.fr",
+   "url": "https://dashboards-builder.donnees.incubateur.anct.gouv.fr/",
+   "title": "Metabase",
+   "description": "",
+   "category": "numerique",
    "group": "gouv",
    "verified": true
   },
@@ -2603,6 +2702,33 @@
    "verified": true
   },
   {
+   "domain": "data.economie.gouv.fr",
+   "url": "https://data.economie.gouv.fr/pages/accueil/",
+   "title": "Accueil - Data Economie — Ministère de l'Économie, des Finances et de la Souveraineté industrielle, énergétique et numérique",
+   "description": "Ce portail diffuse les données ouvertes (open data) produites par les directions du ministère de l'Économie, des Finances et de la Souveraineté industrielle, énergétique et numérique et numérique dans le but qu'elles soient réutilisées par le plus grand nombre, pour améliorer les services rendus au…",
+   "category": "numerique",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "data.education.gouv.fr",
+   "url": "https://data.education.gouv.fr/pages/accueil/",
+   "title": "Bienvenue sur data.education.gouv.fr — Éducation Nationale - Accueil",
+   "description": "",
+   "category": "education",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "data.enseignementsup-recherche.gouv.fr",
+   "url": "https://data.enseignementsup-recherche.gouv.fr/pages/home/",
+   "title": "Open data platform of the French Ministry of Higher Education, Research and Space — Enseignement supérieur, recherche, innovation open data (données…",
+   "description": "Données ouvertes sur l'Enseignement supérieur, la Recherche et l'Innovation en France - Open Data",
+   "category": "education",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "data.esr.gouv.fr",
    "url": "https://data.esr.gouv.fr/",
    "title": "#dataESR",
@@ -2621,6 +2747,24 @@
    "verified": true
   },
   {
+   "domain": "data.grand-est.education.gouv.fr",
+   "url": "https://data.grand-est.education.gouv.fr/pages/accueil-grand-est/",
+   "title": "Bienvenue sur data.grand-est.education.gouv.fr — Educationnationale-Accueil",
+   "description": "",
+   "category": "education",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "data.hauts-de-france.education.gouv.fr",
+   "url": "https://data.hauts-de-france.education.gouv.fr/pages/accueil/",
+   "title": "Accueil — Région académique HdF - Accueil",
+   "description": "Portail open data de la région académique Hauts-de-France",
+   "category": "numerique",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "data.inclusion.gouv.fr",
    "url": "https://data.inclusion.gouv.fr/",
    "title": "Le commun numérique de l'offre d'insertion —",
@@ -2630,20 +2774,38 @@
    "verified": true
   },
   {
+   "domain": "data.normandie.education.gouv.fr",
+   "url": "https://data.normandie.education.gouv.fr/pages/accueil/",
+   "title": "Accueil data.normandie.education.gouv.fr — Région académique Normandie - Accueil",
+   "description": "Portail des données de l'académie de Normandie",
+   "category": "education",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "data.occitanie.education.gouv.fr",
+   "url": "https://data.occitanie.education.gouv.fr/pages/accueil-occitanie/",
+   "title": "Bienvenue sur data.occitanie.education.gouv.fr — Open Data de la région académique Occitanie",
+   "description": "",
+   "category": "education",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "datalab.bi.esante.gouv.fr",
+   "url": "https://datalab.bi.esante.gouv.fr/logon/LogonPoint/index.html",
+   "title": "Citrix Gateway",
+   "description": "",
+   "category": "autres",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "datalabeau.pays-de-la-loire.developpement-durable.gouv.fr",
    "url": "https://www.datalabeau.pays-de-la-loire.developpement-durable.gouv.fr/",
    "title": "Accueil | Datalab'eau",
    "description": "",
    "category": "environnement",
-   "group": "gouv",
-   "verified": true
-  },
-  {
-   "domain": "datalake.inclusion.beta.gouv.fr",
-   "url": "https://datalake.inclusion.beta.gouv.fr/",
-   "title": "Metabase",
-   "description": "",
-   "category": "emploi",
    "group": "gouv",
    "verified": true
   },
@@ -2661,6 +2823,15 @@
    "url": "https://datascience-onisr.interieur.gouv.fr/",
    "title": "Dataiku",
    "description": "",
+   "category": "justice",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "datastorest-phi.interieur.gouv.fr",
+   "url": "https://datastorest-phi.interieur.gouv.fr/login",
+   "title": "S’identifier – DataStor'Est - PHI",
+   "description": "un lieu sûr pour toutes vos données",
    "category": "justice",
    "group": "gouv",
    "verified": true
@@ -2684,11 +2855,29 @@
    "verified": true
   },
   {
-   "domain": "declaration-cstmd.site-ecole.din.developpement-durable.gouv.fr",
-   "url": "https://declaration-cstmd.site-ecole.din.developpement-durable.gouv.fr/",
+   "domain": "declaration-cstmd.din.developpement-durable.gouv.fr",
+   "url": "https://declaration-cstmd.din.developpement-durable.gouv.fr/",
    "title": "DECLARATION-CSTMD - DECLARATION-CSTMD",
    "description": "",
+   "category": "environnement",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "declaration-cstmd.site-ecole.din.developpement-durable.gouv.fr",
+   "url": "https://declaration-cstmd.site-ecole.din.developpement-durable.gouv.fr/",
+   "title": "Déclaration CSTMD - Accueil",
+   "description": "",
    "category": "education",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "declaration-educateur.sports.gouv.fr",
+   "url": "https://declaration-educateur.sports.gouv.fr/",
+   "title": "Portail de déclaration des éducateurs sportifs",
+   "description": "",
+   "category": "culture",
    "group": "gouv",
    "verified": true
   },
@@ -2698,15 +2887,6 @@
    "title": "Accueil — Mon Suivi Justice",
    "description": "",
    "category": "justice",
-   "group": "gouv",
-   "verified": true
-  },
-  {
-   "domain": "decouvrirlemonde.jeunes.gouv.fr",
-   "url": "https://www.decouvrirlemonde.jeunes.gouv.fr/",
-   "title": "Page d’accueil | Découvrir le monde",
-   "description": "",
-   "category": "autres",
    "group": "gouv",
    "verified": true
   },
@@ -2828,6 +3008,15 @@
    "verified": true
   },
   {
+   "domain": "derogationbio.inao.gouv.fr",
+   "url": "https://derogationbio.inao.gouv.fr/Fwamework/Users/Login.aspx",
+   "title": "DerogBio",
+   "description": "",
+   "category": "autres",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "desabonnement.syndicat.education.gouv.fr",
    "url": "https://desabonnement.syndicat.education.gouv.fr/ds/",
    "title": "Choix du fournisseur d'identité",
@@ -2936,20 +3125,20 @@
    "verified": true
   },
   {
+   "domain": "diagnostiqueurs.din.developpement-durable.gouv.fr",
+   "url": "https://diagnostiqueurs.din.developpement-durable.gouv.fr/",
+   "title": "Trouver un diagnostiqueur certifié - Annuaire des diagnostiqueurs immobiliers certifiés",
+   "description": "",
+   "category": "environnement",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "diagseco.finances.gouv.fr",
    "url": "https://diagseco.finances.gouv.fr/",
    "title": "DIAGSECO | entreprises.gouv.fr",
    "description": "",
    "category": "finances",
-   "group": "gouv",
-   "verified": true
-  },
-  {
-   "domain": "dialog.beta.gouv.fr",
-   "url": "https://dialog.beta.gouv.fr/",
-   "title": "DiaLog",
-   "description": "",
-   "category": "numerique",
    "group": "gouv",
    "verified": true
   },
@@ -2972,11 +3161,29 @@
    "verified": true
   },
   {
+   "domain": "dila.gouv.fr",
+   "url": "https://www.dila.gouv.fr/",
+   "title": "Direction de l'information légale et administrative – DILA",
+   "description": "La DILA (Direction de l'information légale et administrative) est une direction d'administration centrale des services du Premier ministre, placée (…)",
+   "category": "institutions",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "dilcrah.gouv.fr",
    "url": "https://www.dilcrah.gouv.fr/",
    "title": "Accueil | DILCRAH",
    "description": "Créée en 2012, la Délégation interministérielle à la lutte contre le racisme, l’antisémitisme et la haine anti-LGBT+ (DILCRAH) est chargée de concevoir, de coordonner et d’animer la politique de l’État en matière de lutte contre les haines et les discriminations. Placée sous la tutelle du Premier m…",
    "category": "autres",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "diplomatie.gouv.fr",
+   "url": "https://www.diplomatie.gouv.fr/fr/le-ministere-en-action/agir-pour-la-paix-et-le-respect-des-droits-de-l-homme/agir-pour-la-securite-le-desarmement-et-la-non-proliferation",
+   "title": "Agir pour la sécurité, le désarmement et la non-prolifération | France Diplomatie",
+   "description": "L’action de la France dans le domaine de la sécurité, du désarmement et de la non-prolifération s’inscrit dans le cadre de la vision stratégique développée dans la « Revue nationale stratégique » (RNS), publiée en 2025 à la demande du Président de la République.",
+   "category": "defense",
    "group": "gouv",
    "verified": true
   },
@@ -3197,15 +3404,6 @@
    "verified": true
   },
   {
-   "domain": "docs.a-just.beta.gouv.fr",
-   "url": "https://docs.a-just.beta.gouv.fr/guide-dutilisateur-a-just",
-   "title": "Présentation d'A-JUST | Guide utilisateurs A-JUST",
-   "description": "",
-   "category": "numerique",
-   "group": "gouv",
-   "verified": true
-  },
-  {
    "domain": "docs.aplus.beta.gouv.fr",
    "url": "https://docs.aplus.beta.gouv.fr/",
    "title": "Centre d'aide d'Administration+ | Administration+",
@@ -3246,15 +3444,6 @@
    "url": "https://docs.pcrs.beta.gouv.fr/",
    "title": "Ressources documentaires PCRS | PCRS",
    "description": "Contenu documentaire produit dans le cadre de la startup d'état PCRS",
-   "category": "numerique",
-   "group": "gouv",
-   "verified": true
-  },
-  {
-   "domain": "docs.potentiel.beta.gouv.fr",
-   "url": "https://docs.potentiel.beta.gouv.fr/",
-   "title": "Tout sur Potentiel ! | Guide Potentiel",
-   "description": "Bienvenue sur les pages d'information de Potentiel",
    "category": "numerique",
    "group": "gouv",
    "verified": true
@@ -3323,15 +3512,6 @@
    "verified": true
   },
   {
-   "domain": "docurba.beta.gouv.fr",
-   "url": "https://docurba.beta.gouv.fr/",
-   "title": "Docurba - Docurba",
-   "description": "",
-   "category": "numerique",
-   "group": "gouv",
-   "verified": true
-  },
-  {
    "domain": "domifa.fabrique.social.gouv.fr",
    "url": "https://domifa.fabrique.social.gouv.fr/",
    "title": "DomiFa : faciliter la domiciliation des personnes sans domicile stable",
@@ -3346,6 +3526,15 @@
    "title": "Soutenez le Mont-Saint-Michel",
    "description": "Soutenez notre association en effectuant un don",
    "category": "culture",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "donnees.drieat.din.developpement-durable.gouv.fr",
+   "url": "https://donnees.drieat.din.developpement-durable.gouv.fr/login",
+   "title": "Données DRIEAT",
+   "description": "Redmine",
+   "category": "environnement",
    "group": "gouv",
    "verified": true
   },
@@ -3499,15 +3688,6 @@
    "title": "Accueil | Drihl Île-de-France",
    "description": "Site internet de la direction régionale et interdépartementale de l'Hébergement et du Logement",
    "category": "territoires",
-   "group": "gouv",
-   "verified": true
-  },
-  {
-   "domain": "drive.dsna-dti.aviation-civile.gouv.fr",
-   "url": "https://drive.dsna-dti.aviation-civile.gouv.fr/index.php/login",
-   "title": "S’identifier – Drive",
-   "description": "",
-   "category": "transports",
    "group": "gouv",
    "verified": true
   },
@@ -3746,9 +3926,18 @@
    "verified": false
   },
   {
+   "domain": "edupilote.incubateur.education.gouv.fr",
+   "url": "https://edupilote.incubateur.education.gouv.fr/login/",
+   "title": "Superset ChartsGouv",
+   "description": "",
+   "category": "education",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "efpconnect.emploi.gouv.fr",
    "url": "https://efpconnect.emploi.gouv.fr/auth/realms/efp/protocol/cas/login",
-   "title": "AGAPE'TH",
+   "title": "Connexion - AGAPE'TH",
    "description": "",
    "category": "emploi",
    "group": "gouv",
@@ -3758,6 +3947,15 @@
    "domain": "efpconnect.pp.emploi.gouv.fr",
    "url": "https://efpconnect.pp.emploi.gouv.fr/auth/realms/efp/protocol/cas/login",
    "title": "Connexion - IHM DECA",
+   "description": "",
+   "category": "emploi",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "efpconnect.valid.emploi.gouv.fr",
+   "url": "https://efpconnect.valid.emploi.gouv.fr/auth/realms/efp/protocol/cas/login",
+   "title": "Connexion - RUPCO",
    "description": "",
    "category": "emploi",
    "group": "gouv",
@@ -3998,11 +4196,29 @@
    "verified": true
   },
   {
+   "domain": "ensmpay.ensm.sports.gouv.fr",
+   "url": "https://ensmpay.ensm.sports.gouv.fr/users/login",
+   "title": "ENSM Payfip : Le paiement électronique de l'ENSM: Users",
+   "description": "",
+   "category": "culture",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "entrepot.recherche.data.gouv.fr",
    "url": "https://entrepot.recherche.data.gouv.fr/",
-   "title": "Recherche Data Gouv",
-   "description": "L’entrepôt pluridisciplinaire Recherche Data Gouv est une solution souveraine pour le partage et l’ouverture des données de recherche produites par les communautés qui ne disposent pas d’un entrepôt disciplinaire reconnu. Il est basé sur le logiciel libre Dataverse. Le dépôt des données doit se fai…",
-   "category": "numerique",
+   "title": "Making sure you're not a bot!",
+   "description": "",
+   "category": "education",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "entreprendre.service-public.gouv.fr",
+   "url": "https://entreprendre.service-public.gouv.fr/",
+   "title": "Accueil | Service Public Entreprendre",
+   "description": "Service Public Entreprendre - Vos droits et démarches plus simplement",
+   "category": "institutions",
    "group": "gouv",
    "verified": true
   },
@@ -4030,15 +4246,6 @@
    "title": "Accueil | Direction générale des Entreprises",
    "description": "La Direction générale des Entreprises conçoit et met en œuvre les politiques publiques qui concourent au développement des entreprises.",
    "category": "entreprises",
-   "group": "gouv",
-   "verified": true
-  },
-  {
-   "domain": "envergo.beta.gouv.fr",
-   "url": "https://envergo.beta.gouv.fr/",
-   "title": "Envergo : évaluez à quelles réglementations environnementales est soumis un projet de construction — Envergo",
-   "description": "Améliorer la prise en compte de l'environnement dans les projets d'urbanisme",
-   "category": "numerique",
    "group": "gouv",
    "verified": true
   },
@@ -4079,6 +4286,15 @@
    "verified": true
   },
   {
+   "domain": "equipements.sports.gouv.fr",
+   "url": "https://equipements.sports.gouv.fr/pages/accueil/",
+   "title": "Équipements sportifs en France : carte et données ouvertes — Data ES",
+   "description": "Portail destiné à la déclaration des équipements sportifs. carte et données ouvertes sur les équipements sportifs en France : stades, gymnases, piscines, terrains et lieux de pratique, avec données d’accessibilité",
+   "category": "culture",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "ermesdemo.tracfin.finances.gouv.fr",
    "url": "https://ermesdemo.tracfin.finances.gouv.fr/Pages/Login.aspx",
    "title": "Ermes - Accueil",
@@ -4093,15 +4309,6 @@
    "title": "Evaluez simplement et rapidement les risques de votre bien - errial.georisques.gouv.fr",
    "description": "",
    "category": "environnement",
-   "group": "gouv",
-   "verified": true
-  },
-  {
-   "domain": "error.envergo.beta.gouv.fr",
-   "url": "https://error.envergo.beta.gouv.fr/",
-   "title": "Erreur serveur",
-   "description": "Internal server error page",
-   "category": "numerique",
    "group": "gouv",
    "verified": true
   },
@@ -4214,15 +4421,6 @@
    "verified": true
   },
   {
-   "domain": "espacesurdemande.anct.gouv.fr",
-   "url": "https://espacesurdemande.anct.gouv.fr/",
-   "title": "Outil de réservation de salles en ligne - Espace sur Demande",
-   "description": "Plateforme publique et gratuite de réservation de salles communales en ligne : simplifiez la gestion de vos salles des fêtes, gymnases, etc.",
-   "category": "autres",
-   "group": "gouv",
-   "verified": true
-  },
-  {
    "domain": "espe-collecte.sante.gouv.fr",
    "url": "https://www.espe-collecte.sante.gouv.fr/SpeInteractiveCollecte/Fermeture.aspx",
    "title": "ES-PE",
@@ -4239,6 +4437,15 @@
    "category": "sante",
    "group": "gouv",
    "verified": true
+  },
+  {
+   "domain": "esr.gouv.fr",
+   "url": "https://www.esr.gouv.fr/",
+   "title": "esr.gouv.fr",
+   "description": "",
+   "category": "autres",
+   "group": "gouv",
+   "verified": false
   },
   {
    "domain": "essaietaecps.eservices.esante.gouv.fr",
@@ -4403,6 +4610,33 @@
    "verified": true
   },
   {
+   "domain": "extranet.codost.schapi.din.developpement-durable.gouv.fr",
+   "url": "https://extranet.codost.schapi.din.developpement-durable.gouv.fr/",
+   "title": "Maintenance en cours",
+   "description": "",
+   "category": "environnement",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "extranet.ddtm-30.equipement-agriculture.gouv.fr",
+   "url": "https://extranet.ddtm-30.equipement-agriculture.gouv.fr/",
+   "title": "Maintenance en cours",
+   "description": "",
+   "category": "territoires",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "extranet.ensm.sports.gouv.fr",
+   "url": "https://extranet.ensm.sports.gouv.fr/connexion-extranet.html",
+   "title": "Connexion Extranet",
+   "description": "",
+   "category": "culture",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "extranet.france-services.gouv.fr",
    "url": "https://extranet.france-services.gouv.fr/",
    "title": "France services",
@@ -4430,6 +4664,15 @@
    "verified": true
   },
   {
+   "domain": "extranet.inao.gouv.fr",
+   "url": "https://extranet.inao.gouv.fr/sites/wwwinao/www/page.php",
+   "title": "INAO Extranet",
+   "description": "",
+   "category": "autres",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "extranet.ira-lyon.gouv.fr",
    "url": "https://extranet.ira-lyon.gouv.fr/Account/Login",
    "title": "Home Page - UniiraWebCore",
@@ -4441,7 +4684,7 @@
   {
    "domain": "extranet.portail.lot.equipement-agriculture.gouv.fr",
    "url": "https://extranet.portail.lot.equipement-agriculture.gouv.fr/",
-   "title": "Portail extranet du Lot",
+   "title": "Maintenance en cours",
    "description": "",
    "category": "environnement",
    "group": "gouv",
@@ -4451,6 +4694,15 @@
    "domain": "extranet.rapide.din.developpement-durable.gouv.fr",
    "url": "https://extranet.rapide.din.developpement-durable.gouv.fr/",
    "title": "RAPIDE",
+   "description": "",
+   "category": "environnement",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "extranet.reunion.din.developpement-durable.gouv.fr",
+   "url": "https://extranet.reunion.din.developpement-durable.gouv.fr/",
+   "title": "Maintenance en cours",
    "description": "",
    "category": "environnement",
    "group": "gouv",
@@ -4556,20 +4808,20 @@
    "verified": true
   },
   {
-   "domain": "filigrane.beta.gouv.fr",
-   "url": "https://filigrane.beta.gouv.fr/",
-   "title": "Filigrane Facile",
-   "description": "",
-   "category": "numerique",
-   "group": "gouv",
-   "verified": true
-  },
-  {
    "domain": "financement-logement-social.logement.gouv.fr",
    "url": "https://www.financement-logement-social.logement.gouv.fr/",
    "title": "Accueil | Financement du logement social",
    "description": "Ce site a vocation à capitaliser les informations réglementaires pour les professionnels du financement du logement (gestionnaires État, délégataires des aides à la pierre, maîtres d'ouvrage HLM) mais aussi à faire le lien avec les systèmes d'information permettant d'optimiser les processus de gest…",
    "category": "logement",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "financeurs.moncompteformation.gouv.fr",
+   "url": "https://financeurs.moncompteformation.gouv.fr/espace-public/",
+   "title": "Accueil | Portail d'information des employeurs et des financeurs | Portail d'information des employeurs et des financeurs",
+   "description": "",
+   "category": "autres",
    "group": "gouv",
    "verified": true
   },
@@ -4624,15 +4876,6 @@
    "title": "Accueil | Formalités d'entreprises",
    "description": "",
    "category": "entreprises",
-   "group": "gouv",
-   "verified": true
-  },
-  {
-   "domain": "formation-laicite.anct.gouv.fr",
-   "url": "https://formation-laicite.anct.gouv.fr/",
-   "title": "ANCT - Portail formation - ANCT - Portail formation",
-   "description": "",
-   "category": "emploi",
    "group": "gouv",
    "verified": true
   },
@@ -4925,6 +5168,15 @@
    "verified": true
   },
   {
+   "domain": "gels-avoirs.dgtresor.gouv.fr",
+   "url": "https://gels-avoirs.dgtresor.gouv.fr/",
+   "title": "Gel des avoirs - Gels des Avoirs - Direction Générale Du Trésor",
+   "description": "",
+   "category": "finances",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "gendform2.gendarmerie.interieur.gouv.fr",
    "url": "https://gendform2.gendarmerie.interieur.gouv.fr/auth/multisso/login.php",
    "title": "GendForm : Plateforme d'enseignement à distance",
@@ -5024,6 +5276,15 @@
    "verified": true
   },
   {
+   "domain": "georisques.gouv.fr",
+   "url": "https://www.georisques.gouv.fr/",
+   "title": "Accueil - Particulier | Géorisques",
+   "description": "Géorisques: Accueil Géorisques https://www.georisques.gouv.fr Géorisques est le site de l’État sur la connaissance, la prévention et la résilience face aux risques. Il couvre les risques naturels, technologiques et miniers.",
+   "category": "environnement",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "geothermie.developpement-durable.gouv.fr",
    "url": "https://geothermie.developpement-durable.gouv.fr/",
    "title": "GTH",
@@ -5105,6 +5366,15 @@
    "verified": true
   },
   {
+   "domain": "gnius.esante.gouv.fr",
+   "url": "https://gnius.esante.gouv.fr/fr",
+   "title": "Guichet National Innovation et Usage e-Santé | G_NIUS",
+   "description": "Accélérez la mise sur le marché de votre projet grâce à des outils vous aidant à comprendre les aspects règlementaires et financiers de l'e-santé.",
+   "category": "sante",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "gouvernement.gouv.fr",
    "url": "https://www.gouvernement.gouv.fr/",
    "title": "gouvernement.gouv.fr",
@@ -5155,6 +5425,15 @@
    "title": "BCE Request",
    "description": "",
    "category": "sante",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "grist-sandbox.beta.numerique.gouv.fr",
+   "url": "https://grist-sandbox.beta.numerique.gouv.fr/o/docs/",
+   "title": "Loading... - Grist",
+   "description": "A modern, open source spreadsheet that goes beyond the grid",
+   "category": "numerique",
    "group": "gouv",
    "verified": true
   },
@@ -5256,15 +5535,6 @@
    "category": "autres",
    "group": "gouv",
    "verified": false
-  },
-  {
-   "domain": "haie.beta.gouv.fr",
-   "url": "https://haie.beta.gouv.fr/",
-   "title": "Guichet unique de la haie – Site officiel",
-   "description": "Le point d'accès unique à la réglementation et aux démarches administratives sur les haies et alignements d'arbres",
-   "category": "numerique",
-   "group": "gouv",
-   "verified": true
   },
   {
    "domain": "handicap.gouv.fr",
@@ -5474,6 +5744,24 @@
    "verified": true
   },
   {
+   "domain": "homologation-efe-ext.education.gouv.fr",
+   "url": "https://homologation-efe-ext.education.gouv.fr/public/login",
+   "title": "Homologation",
+   "description": "",
+   "category": "education",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "homologation-efe-menj.education.gouv.fr",
+   "url": "https://homologation-efe-menj.education.gouv.fr/public/login",
+   "title": "Homologation",
+   "description": "",
+   "category": "education",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "honorabilite-depose.pp.social.gouv.fr",
    "url": "https://honorabilite-depose.pp.social.gouv.fr/",
    "title": "Phd",
@@ -5528,6 +5816,15 @@
    "verified": true
   },
   {
+   "domain": "ia.numerique.gouv.fr",
+   "url": "https://ia.numerique.gouv.fr/",
+   "title": "Accueil IA dans l'État — IA dans l'État",
+   "description": "Améliorer les services publics grâce à l’IA Administrations, ministères, opérateurs, agents publics : nous construisons ensemble la stratégie et les briques d'IA dont l'État a besoin pour mieux servir les citoyens et faciliter le travail des agents.",
+   "category": "numerique",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "identification.agriculture.gouv.fr",
    "url": "https://identification.agriculture.gouv.fr/oauth2/authorize",
    "title": "Authentication portal",
@@ -5568,6 +5865,15 @@
    "url": "https://igas.gouv.fr/",
    "title": "Accueil - Bienvenue sur le site de l'Igas : Inspection générale des affaires sociales",
    "description": "L'Inspection générale des affaires sociales est une inspection générale interministérielle du secteur social. Elle réalise des missions de contrôle, d’audit, d’expertise et d’évaluation, conseille les pouvoirs publics et apporte son concours à la conception et à la conduite de réformes. Elle interv…",
+   "category": "sante",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "igc-sante.esante.gouv.fr",
+   "url": "http://igc-sante.esante.gouv.fr/PC/",
+   "title": "IGC-Santé",
+   "description": "",
    "category": "sante",
    "group": "gouv",
    "verified": true
@@ -5645,47 +5951,11 @@
    "verified": false
   },
   {
-   "domain": "immat.aviation-civile.gouv.fr",
-   "url": "https://immat.aviation-civile.gouv.fr/immat/servlet/home.html",
-   "title": "Direction Générale de l'Aviation Civile",
-   "description": "",
-   "category": "transports",
-   "group": "gouv",
-   "verified": true
-  },
-  {
-   "domain": "immersion-facile.beta.gouv.fr",
-   "url": "https://immersion-facile.beta.gouv.fr/",
-   "title": "PMSMP: Immersion Facile",
-   "description": "",
-   "category": "numerique",
-   "group": "gouv",
-   "verified": true
-  },
-  {
    "domain": "impots.gouv.fr",
    "url": "https://www.impots.gouv.fr/accueil",
    "title": "Accueil impots.gouv.fr | impots.gouv.fr",
    "description": "",
    "category": "finances",
-   "group": "gouv",
-   "verified": true
-  },
-  {
-   "domain": "inao.gouv.fr",
-   "url": "https://www.inao.gouv.fr/",
-   "title": "Accueil | INAO",
-   "description": "",
-   "category": "autres",
-   "group": "gouv",
-   "verified": true
-  },
-  {
-   "domain": "inclusion-numerique.anct.gouv.fr",
-   "url": "https://inclusion-numerique.anct.gouv.fr/",
-   "title": "Inclusion Numérique - Agence Nationale de la Cohésion des Territoires",
-   "description": "Découvrez les dispositifs, lieux et outils pour favoriser l'inclusion numérique sur les territoires. Accompagner tous les publics vers une utilisation autonome, sécurisée et confiante du numérique.",
-   "category": "numerique",
    "group": "gouv",
    "verified": true
   },
@@ -5789,15 +6059,6 @@
    "verified": true
   },
   {
-   "domain": "infographies.agriculture.gouv.fr",
-   "url": "https://infographies.agriculture.gouv.fr/",
-   "title": "Les infographies",
-   "description": "L'agriculture, l'agroalimentaire et la forêt en infographies.",
-   "category": "environnement",
-   "group": "gouv",
-   "verified": true
-  },
-  {
    "domain": "infolettre.communaute.chorus-pro.gouv.fr",
    "url": "https://infolettre.communaute.chorus-pro.gouv.fr/",
    "title": "Gestion d'abonnement de la lettre Chorus Pro",
@@ -5857,6 +6118,15 @@
    "title": "Forum Entreprendre dans la Culture 2026 - Homepage",
    "description": "",
    "category": "culture",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "inscriptionpro.impots.gouv.fr",
+   "url": "https://inscriptionpro.impots.gouv.fr/opale_inscription/xhtml/creation-espace/index-espace.xhtml",
+   "title": "Opale Inscription -",
+   "description": "Opale Inscription (v4.70.06)",
+   "category": "finances",
    "group": "gouv",
    "verified": true
   },
@@ -6005,6 +6275,15 @@
    "verified": true
   },
   {
+   "domain": "isconnect.esante.gouv.fr",
+   "url": "https://isconnect.esante.gouv.fr/enrollement/account/login/",
+   "title": "ANS iSC | Accueil",
+   "description": "",
+   "category": "autres",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "isere.gouv.fr",
    "url": "https://www.isere.gouv.fr/",
    "title": "Préfecture : Isere",
@@ -6019,6 +6298,15 @@
    "title": "Telepac - Téléservices des aides de la PAC",
    "description": "",
    "category": "environnement",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "itrf.education.gouv.fr",
+   "url": "https://www.itrf.education.gouv.fr/itrf/menuaccueil.do",
+   "title": "WebITRF",
+   "description": "Ingénieurs et personnels techniques de recherche et de formation - concours et examens professionnels",
+   "category": "education",
    "group": "gouv",
    "verified": true
   },
@@ -6392,6 +6680,15 @@
    "verified": true
   },
   {
+   "domain": "librairie.rcn.aife.economie.gouv.fr",
+   "url": "https://librairie.rcn.aife.economie.gouv.fr/users/sign_in",
+   "title": "Connexion · GitLab",
+   "description": "GitLab Community Edition",
+   "category": "finances",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "lilos.examens-concours.gouv.fr",
    "url": "https://lilos.examens-concours.gouv.fr/",
    "title": "Salle d'attente",
@@ -6514,15 +6811,6 @@
    "title": "ma cantine",
    "description": "Pour une alimentation saine, de qualité et plus durable dans nos assiettes grâce à EGalim",
    "category": "environnement",
-   "group": "gouv",
-   "verified": true
-  },
-  {
-   "domain": "maestro.beta.gouv.fr",
-   "url": "https://maestro.beta.gouv.fr/",
-   "title": "Maestro - Surveillance et contrôle officiel à la production primaire végétale",
-   "description": "L’outil numérique Maestro facilite la saisie et le partage d’informations entre les acteurs de la surveillance et du contrôle officiel à la production primaire végétale.",
-   "category": "numerique",
    "group": "gouv",
    "verified": true
   },
@@ -6671,15 +6959,6 @@
    "verified": true
   },
   {
-   "domain": "matomo-eplusjs.service-civique.gouv.fr",
-   "url": "https://matomo-eplusjs.service-civique.gouv.fr/",
-   "title": "Sign in - Matomo",
-   "description": "free/libre analytics platform",
-   "category": "culture",
-   "group": "gouv",
-   "verified": true
-  },
-  {
    "domain": "mattermost.fabrique.social.gouv.fr",
    "url": "https://mattermost.fabrique.social.gouv.fr/",
    "title": "Mattermost",
@@ -6725,6 +7004,15 @@
    "verified": false
   },
   {
+   "domain": "mc.moselle.gouv.fr",
+   "url": "https://mc.moselle.gouv.fr/index.php",
+   "title": "/ Medecins agréées",
+   "description": "",
+   "category": "autres",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "me.extranet.france-services.gouv.fr",
    "url": "https://me.extranet.france-services.gouv.fr/",
    "title": "Page d'aide au débogage",
@@ -6753,7 +7041,7 @@
   },
   {
    "domain": "mediatheque.interieur.gouv.fr",
-   "url": "https://mediatheque.interieur.gouv.fr/minint-dicom/identification;jsessionid=6CE9695227E0DF02B3492204A7E180F0.f3",
+   "url": "https://mediatheque.interieur.gouv.fr/minint-dicom/identification;jsessionid=577851B4D565CA20DC0BE1E773B4B155.f2",
    "title": "Keepeek - Identification",
    "description": "",
    "category": "justice",
@@ -6845,7 +7133,7 @@
    "domain": "mes-aides.1jeune1solution.beta.gouv.fr",
    "url": "https://mes-aides.1jeune1solution.beta.gouv.fr/",
    "title": "Évaluez vos droits aux aides avec le simulateur de 1jeune1solution",
-   "description": "7 minutes suffisent pour évaluer vos droits à 1028 aides avec le simulateur de 1jeune1solution.",
+   "description": "7 minutes suffisent pour évaluer vos droits à 1027 aides avec le simulateur de 1jeune1solution.",
    "category": "numerique",
    "group": "gouv",
    "verified": true
@@ -6941,6 +7229,15 @@
    "verified": true
   },
   {
+   "domain": "meteo.assurance.maladie.esante.gouv.fr",
+   "url": "https://meteo.assurance.maladie.esante.gouv.fr/password",
+   "title": "Enter password",
+   "description": "Radically better uptime monitoring platform with phone call alerts, status pages, and incident management built-in. Free plan included!",
+   "category": "environnement",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "meurthe-et-moselle.gouv.fr",
    "url": "https://www.meurthe-et-moselle.gouv.fr/",
    "title": "Préfecture : Meurthe-et-Moselle",
@@ -6964,6 +7261,15 @@
    "title": "Le Médiateur des entreprises",
    "description": "",
    "category": "finances",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "mieuxrespirerenville.gouv.fr",
+   "url": "https://mieuxrespirerenville.gouv.fr/",
+   "title": "Mieux respirer en Ville - Accueil | Zones à faibles émissions mobilité",
+   "description": "Bienvenue sur Mieux Respirer en Ville. Retrouvez toutes les informations liées à la qualité de l'air en Ville et dans les zones à faibles émissions !",
+   "category": "transports",
    "group": "gouv",
    "verified": true
   },
@@ -7040,15 +7346,6 @@
    "verified": true
   },
   {
-   "domain": "mon-recap.inclusion.beta.gouv.fr",
-   "url": "https://mon-recap.inclusion.beta.gouv.fr/",
-   "title": "Professionnels de l’inclusion, facilitez votre accompagnement avec Mon Récap — Mon Récap",
-   "description": "Permet aux personnes en parcours d'insertion sociale et professionnelle de s’organiser dans leurs demandes d’aides et démarches conserver les échanges […]",
-   "category": "emploi",
-   "group": "gouv",
-   "verified": true
-  },
-  {
    "domain": "monaide.cyber.gouv.fr",
    "url": "https://monaide.cyber.gouv.fr/",
    "title": "MonAideCyber",
@@ -7063,6 +7360,24 @@
    "title": "Accueil | MonAIOT",
    "description": "MonAIOT est le portail d'identification pour l'ensemble des applications en lien avec les installations classées : GIDAF, GEREP, InfoSols, GUNenv (à venir), SEVESO 3 (à venir), ...",
    "category": "environnement",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "moncompte-ars.esante.gouv.fr",
+   "url": "https://moncompte-ars.esante.gouv.fr/epars/login/page_accueil/authentification_AE.html",
+   "title": "Portail d’enregistrement RPPS",
+   "description": "",
+   "category": "sante",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "moncompte-ps.esante.gouv.fr",
+   "url": "https://moncompte-ps.esante.gouv.fr/epars/login/page_accueil/authentification_PS.html",
+   "title": "Portail d’enregistrement RPPS",
+   "description": "",
+   "category": "autres",
    "group": "gouv",
    "verified": true
   },
@@ -7193,6 +7508,15 @@
    "verified": true
   },
   {
+   "domain": "moodle.insp.gouv.fr",
+   "url": "https://moodle.insp.gouv.fr/login/index.php",
+   "title": "Se connecter sur le site | Institut National du Service Public",
+   "description": "",
+   "category": "autres",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "morbihan.gouv.fr",
    "url": "https://www.morbihan.gouv.fr/",
    "title": "Préfecture : Morbihan",
@@ -7209,6 +7533,15 @@
    "category": "territoires",
    "group": "gouv",
    "verified": false
+  },
+  {
+   "domain": "moxy.analyse.ensm.sports.gouv.fr",
+   "url": "https://moxy.analyse.ensm.sports.gouv.fr/test",
+   "title": "Dash",
+   "description": "",
+   "category": "culture",
+   "group": "gouv",
+   "verified": true
   },
   {
    "domain": "mrae.developpement-durable.gouv.fr",
@@ -7267,15 +7600,6 @@
   {
    "domain": "nomade1.din.developpement-durable.gouv.fr",
    "url": "https://nomade1.din.developpement-durable.gouv.fr/my.logout.php3",
-   "title": "BIG-IP logout page",
-   "description": "",
-   "category": "environnement",
-   "group": "gouv",
-   "verified": true
-  },
-  {
-   "domain": "nomade2.din.developpement-durable.gouv.fr",
-   "url": "https://nomade2.din.developpement-durable.gouv.fr/my.logout.php3",
    "title": "BIG-IP logout page",
    "description": "",
    "category": "environnement",
@@ -7375,7 +7699,7 @@
   {
    "domain": "nouvelle-elettre-dgac.developpement-durable.gouv.fr",
    "url": "https://nouvelle-elettre-dgac.developpement-durable.gouv.fr/",
-   "title": "Infolettre DGAC",
+   "title": "Maintenance en cours",
    "description": "",
    "category": "transports",
    "group": "gouv",
@@ -7384,7 +7708,7 @@
   {
    "domain": "nouvelle-elettre.developpement-durable.gouv.fr",
    "url": "https://nouvelle-elettre.developpement-durable.gouv.fr/",
-   "title": "Plateforme Infolettre INTERNET",
+   "title": "Maintenance en cours",
    "description": "",
    "category": "environnement",
    "group": "gouv",
@@ -7590,7 +7914,7 @@
   },
   {
    "domain": "octave.developpement-durable.gouv.fr",
-   "url": "https://octave.developpement-durable.gouv.fr/public/accueil;jsessionid=91E080E5BC490145E9CBF9A710ADE686",
+   "url": "https://octave.developpement-durable.gouv.fr/public/accueil;jsessionid=25ED0CD3CA6FBCA2A4E2BEFD1571DBF6",
    "title": "OCTAVE - Accueil - Octave",
    "description": "Template HTML5 MEDDE",
    "category": "environnement",
@@ -7625,19 +7949,19 @@
    "verified": true
   },
   {
-   "domain": "ofb.gouv.fr",
-   "url": "https://ofb.gouv.fr/",
-   "title": "Accueil | Office français de la biodiversité",
+   "domain": "of.moncompteformation.gouv.fr",
+   "url": "https://of.moncompteformation.gouv.fr/espace-public/",
+   "title": "Accueil | Portail d’information des organismes de formation | Portail d’information des organismes de formation",
    "description": "",
-   "category": "environnement",
+   "category": "autres",
    "group": "gouv",
    "verified": true
   },
   {
-   "domain": "offre-services-cif3.din.developpement-durable.gouv.fr",
-   "url": "https://offre-services-cif3.din.developpement-durable.gouv.fr/login",
-   "title": "Offre de services CIF",
-   "description": "Redmine",
+   "domain": "ofb.gouv.fr",
+   "url": "https://ofb.gouv.fr/",
+   "title": "Accueil | Office français de la biodiversité",
+   "description": "",
    "category": "environnement",
    "group": "gouv",
    "verified": true
@@ -7859,15 +8183,6 @@
    "verified": true
   },
   {
-   "domain": "pages.immersion-facile.beta.gouv.fr",
-   "url": "https://pages.immersion-facile.beta.gouv.fr/",
-   "title": "Ressources et webinaires - PMSMP : Immersion Facile —",
-   "description": "Retrouvez les ressources et webinaires sur Immersion Facilitée",
-   "category": "numerique",
-   "group": "gouv",
-   "verified": true
-  },
-  {
    "domain": "palome.din.developpement-durable.gouv.fr",
    "url": "https://palome.din.developpement-durable.gouv.fr/accueil/",
    "title": "Palome - logements réservés aux agents des administrations centrales",
@@ -7976,6 +8291,15 @@
    "verified": true
   },
   {
+   "domain": "passerelles.economie.gouv.fr",
+   "url": "https://passerelles.economie.gouv.fr/accueil.aspx",
+   "title": "MINISTERE DE L'ECONOMIE ET DES FINANCES - Site d'offres d'emploi",
+   "description": "A remplir",
+   "category": "finances",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "pastek.fabrique.social.gouv.fr",
    "url": "https://pastek.fabrique.social.gouv.fr/",
    "title": "Pastek",
@@ -8008,6 +8332,15 @@
    "title": "Directions régionales de l'économie, de l'emploi, du travail et des solidarités (DREETS)",
    "description": "Le portail des Dreets regroupe les Directions régionales de l'économie, de l'emploi, du travail et des solidarités (DREETS), en Île-de-France, la (…)",
    "category": "emploi",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "paysage.esr.gouv.fr",
+   "url": "https://paysage.esr.gouv.fr/",
+   "title": "Paysage",
+   "description": "Plateforme d'échanges et d'informations de la DGESIP et de la DGRI",
+   "category": "autres",
    "group": "gouv",
    "verified": true
   },
@@ -8071,15 +8404,6 @@
    "title": "Accompagnement national du PCRS | pcrs.beta.gouv.fr",
    "description": "Accompagner et diffuser les projets locaux de PCRS en cours et à venir",
    "category": "numerique",
-   "group": "gouv",
-   "verified": true
-  },
-  {
-   "domain": "pentest.emplois.inclusion.beta.gouv.fr",
-   "url": "https://pentest.emplois.inclusion.beta.gouv.fr/",
-   "title": "La plateforme de l’inclusion",
-   "description": "La plateforme de l’inclusion facilite l'orientation, l'accompagnement socio-professionnel et le retour à l'emploi des personnes en situation d'exclusion.",
-   "category": "emploi",
    "group": "gouv",
    "verified": true
   },
@@ -8165,15 +8489,6 @@
    "verified": true
   },
   {
-   "domain": "pilotage.inclusion.beta.gouv.fr",
-   "url": "https://pilotage.inclusion.beta.gouv.fr/",
-   "title": "Accueil - Le pilotage de l'inclusion",
-   "description": "Proposer des tableaux de bord prêts à l’emploi pour permettre aux acteurs de l’inclusion de prendre des décisions mieux éclairées, tout en réduisant le temps de collecte de données et de production d’indicateurs.",
-   "category": "emploi",
-   "group": "gouv",
-   "verified": true
-  },
-  {
    "domain": "pipa.diplomatie.gouv.fr",
    "url": "https://pipa.diplomatie.gouv.fr/en/",
    "title": "PIPA Alumni",
@@ -8208,6 +8523,15 @@
    "category": "autres",
    "group": "gouv",
    "verified": false
+  },
+  {
+   "domain": "plan60000.enseignementsup-recherche.gouv.fr",
+   "url": "https://plan60000.enseignementsup-recherche.gouv.fr/user/login",
+   "title": "Mon Profil | CLEF",
+   "description": "",
+   "category": "education",
+   "group": "gouv",
+   "verified": true
   },
   {
    "domain": "planbatimentdurable.developpement-durable.gouv.fr",
@@ -8305,15 +8629,6 @@
    "title": "Accueil | Aides et FAQ enquête PMND",
    "description": "",
    "category": "sante",
-   "group": "gouv",
-   "verified": true
-  },
-  {
-   "domain": "pod.phm.education.gouv.fr",
-   "url": "https://pod.phm.education.gouv.fr/",
-   "title": "PodEduc - Accueil",
-   "description": "",
-   "category": "education",
    "group": "gouv",
    "verified": true
   },
@@ -8543,6 +8858,15 @@
    "verified": false
   },
   {
+   "domain": "preinscription.creps-toulouse.sports.gouv.fr",
+   "url": "https://preinscription.creps-toulouse.sports.gouv.fr/netypareo/index.php/preinscription/",
+   "title": "NetYParéo - Pièces obligatoires à déposer pour valider la préinscription : pièce d'identité en cours de validité et photo d'identité. Attention : les…",
+   "description": "Portail netYParéo",
+   "category": "culture",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "premar-atlantique.gouv.fr",
    "url": "https://www.premar-atlantique.gouv.fr/",
    "title": "Préfecture maritime de l'Atlantique",
@@ -8606,29 +8930,29 @@
    "verified": true
   },
   {
+   "domain": "primealaconversion.gouv.fr",
+   "url": "https://www.primealaconversion.gouv.fr/dboneco/accueil/",
+   "title": "Accueil - Aides à l'acquisition de véhicules peu polluants",
+   "description": "Le nouveau dispositif des Aides à l'acquisition de véhicules peu polluants a pour objectif d'aider tous les Français, particuliers et professionnels, sans condition de revenus, à acheter un véhicule neuf ou d'occasion à condition de mettre au rebut un vieux véhicule.",
+   "category": "transports",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "prive.data.occitanie.education.gouv.fr",
+   "url": "https://prive.data.occitanie.education.gouv.fr/login/",
+   "title": "Login — Privé data Occitanie",
+   "description": "",
+   "category": "education",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "prix-carburants.gouv.fr",
    "url": "https://www.prix-carburants.gouv.fr/",
    "title": "Prix des carburants en France, site gouvernemental",
    "description": "Site du prix des carburants du Ministère de l'Économie, des Finances et de la Souveraineté industrielle : SP95, Gazole, E85, GPL, E10, SP98",
    "category": "entreprises",
-   "group": "gouv",
-   "verified": true
-  },
-  {
-   "domain": "prix.conso.gouv.fr",
-   "url": "https://prix.conso.gouv.fr/",
-   "title": "Prix.conso.gouv.fr",
-   "description": "",
-   "category": "autres",
-   "group": "gouv",
-   "verified": true
-  },
-  {
-   "domain": "pro.rappel.conso.gouv.fr",
-   "url": "https://pro.rappel.conso.gouv.fr/Account/Login",
-   "title": "RappelConso - Connexion Pro",
-   "description": "",
-   "category": "autres",
    "group": "gouv",
    "verified": true
   },
@@ -8660,6 +8984,15 @@
    "verified": true
   },
   {
+   "domain": "propilot.dfakto-prod.sgpi.gouv.fr",
+   "url": "https://propilot.dfakto-prod.sgpi.gouv.fr/",
+   "title": "Propilot",
+   "description": "",
+   "category": "autres",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "proprietaire.dossierfacile.logement.gouv.fr",
    "url": "https://proprietaire.dossierfacile.logement.gouv.fr/",
    "title": "DossierFacile",
@@ -8674,6 +9007,15 @@
    "title": "Site public PSE: Accueil",
    "description": "",
    "category": "environnement",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "publication.enseignementsup-recherche.gouv.fr",
+   "url": "https://publication.enseignementsup-recherche.gouv.fr/FR/",
+   "title": "Les publications statistiques sur l'enseignement supérieur, la recherche et l'innovation",
+   "description": "Les publications statistiques sur l'enseignement supérieur, la recherche et l'innovation",
+   "category": "education",
    "group": "gouv",
    "verified": true
   },
@@ -8795,6 +9137,15 @@
    "verified": true
   },
   {
+   "domain": "rappel.conso.gouv.fr",
+   "url": "https://rappel.conso.gouv.fr/",
+   "title": "Rappel Consommateur - Accueil",
+   "description": "Description de rappelsconso",
+   "category": "entreprises",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "rapport-nav.din.developpement-durable.gouv.fr",
    "url": "https://rapport-nav.din.developpement-durable.gouv.fr/",
    "title": "RapportNav",
@@ -8876,6 +9227,24 @@
    "verified": true
   },
   {
+   "domain": "recherche.gouv.fr",
+   "url": "https://www.recherche.gouv.fr/",
+   "title": "recherche.gouv.fr",
+   "description": "",
+   "category": "education",
+   "group": "gouv",
+   "verified": false
+  },
+  {
+   "domain": "recherchesuccessionsvacantes.impots.gouv.fr",
+   "url": "https://recherchesuccessionsvacantes.impots.gouv.fr/",
+   "title": "Portail Successions Vacantes - Recherche une succession vacante pour un défunt domicilié en France",
+   "description": "Portail Successions Vacantes - Recherche une succession vacante pour un défunt domicilié en France",
+   "category": "finances",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "reclamation.conso.gouv.fr",
    "url": "https://reclamation.conso.gouv.fr/",
    "title": "DGCCRF -",
@@ -8885,18 +9254,9 @@
    "verified": true
   },
   {
-   "domain": "recommandations-collaboratives.beta.gouv.fr",
-   "url": "https://recommandations-collaboratives.beta.gouv.fr/",
-   "title": "Recommandations-collaboratives — Recommandations-collaboratives",
-   "description": "",
-   "category": "numerique",
-   "group": "gouv",
-   "verified": true
-  },
-  {
    "domain": "recrutement.agriculture.gouv.fr",
    "url": "https://recrutement.agriculture.gouv.fr/",
-   "title": "Découvrez nos offres d'emploi partout en France (page 1 sur 55) | Ministère de l'agriculture de la souveraineté alimentaire | Page Accueil",
+   "title": "Découvrez nos offres d'emploi partout en France (page 1 sur 54) | Ministère de l'agriculture de la souveraineté alimentaire | Page Accueil",
    "description": "Découvrez nos offres d'emploi",
    "category": "environnement",
    "group": "gouv",
@@ -9056,15 +9416,6 @@
    "verified": true
   },
   {
-   "domain": "relance-transformation.beta.gouv.fr",
-   "url": "https://relance-transformation.beta.gouv.fr/",
-   "title": "France Relance",
-   "description": "",
-   "category": "numerique",
-   "group": "gouv",
-   "verified": true
-  },
-  {
    "domain": "rendezvousauxjardins.culture.gouv.fr",
    "url": "https://rendezvousauxjardins.culture.gouv.fr/",
    "title": "Rendez-vous aux jardins | Rendez-vous aux Jardins",
@@ -9079,6 +9430,15 @@
    "title": "Recherche par repère | Repères de crues",
    "description": "",
    "category": "environnement",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "representativite-patronale.pp.travail.gouv.fr",
+   "url": "https://representativite-patronale.pp.travail.gouv.fr/",
+   "title": "Bienvenue sur le site dédié à la représentativité des organisations d’employeurs | SI PORTAIL",
+   "description": "Ce site contient des informations sur la représentativité patronale issue de la loi du 5 mars 2014 relative à la formation professionnelle, à l’emploi et à la démocratie sociale et de la loi du 8 août 2016 relative au travail, à la modernisation du dialogue social et à la sécurisation des parcours…",
+   "category": "emploi",
    "group": "gouv",
    "verified": true
   },
@@ -9119,6 +9479,15 @@
    "verified": true
   },
   {
+   "domain": "reseaunationalamenageurs.logement.gouv.fr",
+   "url": "https://www.reseaunationalamenageurs.logement.gouv.fr/",
+   "title": "Maintenance en cours",
+   "description": "",
+   "category": "logement",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "reso.francenum.gouv.fr",
    "url": "https://reso.francenum.gouv.fr/",
    "title": "RESO France Num",
@@ -9151,6 +9520,15 @@
    "title": "Site geomce en prod",
    "description": "",
    "category": "environnement",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "resultats-elections.interieur.gouv.fr",
+   "url": "https://www.resultats-elections.interieur.gouv.fr/index2.html",
+   "title": "Publication des candidatures et des résultats des élections en France",
+   "description": "Retrouvez toutes les informations concernant les élections",
+   "category": "institutions",
    "group": "gouv",
    "verified": true
   },
@@ -9245,19 +9623,19 @@
    "verified": true
   },
   {
+   "domain": "risques.gouv.fr",
+   "url": "https://www.risques.gouv.fr/",
+   "title": "risques.gouv.fr",
+   "description": "",
+   "category": "environnement",
+   "group": "gouv",
+   "verified": false
+  },
+  {
    "domain": "rnb-api.beta.gouv.fr",
    "url": "https://rnb-api.beta.gouv.fr/",
    "title": "RNB",
    "description": "",
-   "category": "numerique",
-   "group": "gouv",
-   "verified": true
-  },
-  {
-   "domain": "rnb.beta.gouv.fr",
-   "url": "https://rnb.beta.gouv.fr/",
-   "title": "Accueil | Référentiel National des Bâtiments",
-   "description": "Référencer l'intégralité des bâtiments du territoire français au sein de données et d'outils libres.",
    "category": "numerique",
    "group": "gouv",
    "verified": true
@@ -9389,6 +9767,15 @@
    "verified": true
   },
   {
+   "domain": "sam.polynesie-francaise.developpement-durable.gouv.fr",
+   "url": "https://www.sam.polynesie-francaise.developpement-durable.gouv.fr/",
+   "title": "Maintenance en cours",
+   "description": "",
+   "category": "environnement",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "sama.finances.gouv.fr",
    "url": "https://sama.finances.gouv.fr/login_page.php",
    "title": "Se connecter - SAMA - Suivi des Anomalies dans MAntis",
@@ -9403,6 +9790,15 @@
    "title": "Accès internet indisponible",
    "description": "",
    "category": "education",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "sanctionsfinancieres.dgtresor.gouv.fr",
+   "url": "https://sanctionsfinancieres.dgtresor.gouv.fr/",
+   "title": "Bienvenue sur le téléservice « Sanctions financières internationales »",
+   "description": "",
+   "category": "defense",
    "group": "gouv",
    "verified": true
   },
@@ -9524,15 +9920,6 @@
    "verified": true
   },
   {
-   "domain": "seam.polynesie-francaise.mer.gouv.fr",
-   "url": "https://www.seam.polynesie-francaise.mer.gouv.fr/",
-   "title": "Accueil | Service d'État des affaires maritimes en Polynésie française",
-   "description": "",
-   "category": "transports",
-   "group": "gouv",
-   "verified": true
-  },
-  {
    "domain": "search-recherche-entreprises.fabrique.social.gouv.fr",
    "url": "https://search-recherche-entreprises.fabrique.social.gouv.fr/",
    "title": "Swagger UI",
@@ -9556,15 +9943,6 @@
    "title": "SecNumacademie",
    "description": "",
    "category": "autres",
-   "group": "gouv",
-   "verified": true
-  },
-  {
-   "domain": "secours17.pp.gendarmerie.interieur.gouv.fr",
-   "url": "https://secours17.pp.gendarmerie.interieur.gouv.fr/",
-   "title": "Loc'Alerte",
-   "description": "",
-   "category": "justice",
    "group": "gouv",
    "verified": true
   },
@@ -9641,20 +10019,20 @@
    "verified": true
   },
   {
-   "domain": "semafor-ecole.din.developpement-durable.gouv.fr",
-   "url": "https://semafor-ecole.din.developpement-durable.gouv.fr/",
-   "title": "SEMAFOR : Page d'erreur inconnue",
-   "description": "Template HTML5 MEDDE",
-   "category": "education",
-   "group": "gouv",
-   "verified": true
-  },
-  {
    "domain": "service-civique.gouv.fr",
    "url": "https://www.service-civique.gouv.fr/",
    "title": "Site Officiel du Service Civique",
    "description": "Engagez-vous dans une mission du Service Civique, aidez-vous vous-même et les autres, tout en étant indemnisé ! Trouvez dès maintenant une mission pour une durée de 6 à 12 mois, si vous avez entre 16 et 25 ans (jusqu'à 30 en cas de handicap).",
    "category": "culture",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "service-public.gouv.fr",
+   "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/R1319",
+   "title": "Établir un contrat d'apprentissage | Service Public",
+   "description": "Établir un contrat d'apprentissage - Formulaire",
+   "category": "institutions",
    "group": "gouv",
    "verified": true
   },
@@ -9682,6 +10060,15 @@
    "title": "SEVESO",
    "description": "",
    "category": "environnement",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "sg-direct.ecologie.gouv.fr",
+   "url": "https://sg-direct.ecologie.gouv.fr/connexion",
+   "title": "Se connecter | SG-Direct",
+   "description": "",
+   "category": "territoires",
    "group": "gouv",
    "verified": true
   },
@@ -9731,6 +10118,15 @@
    "verified": true
   },
   {
+   "domain": "sia.detenteurs.interieur.gouv.fr",
+   "url": "https://sia.detenteurs.interieur.gouv.fr/realms/detenteurs/protocol/openid-connect/auth",
+   "title": "Accueil, Système d'Information des Armes",
+   "description": "Le site officiel du système d'information sur les armes SIA. Création de compte, gestion de ses informations personnelles, numéro SIA, démarches en ligne...",
+   "category": "justice",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "siap.logement.gouv.fr",
    "url": "https://siap.logement.gouv.fr/",
    "title": "SIAP",
@@ -9765,6 +10161,15 @@
    "category": "sante",
    "group": "gouv",
    "verified": true
+  },
+  {
+   "domain": "sig.gouv.fr",
+   "url": "https://www.sig.gouv.fr/",
+   "title": "sig.gouv.fr",
+   "description": "",
+   "category": "autres",
+   "group": "gouv",
+   "verified": false
   },
   {
    "domain": "sig.ville.gouv.fr",
@@ -9939,7 +10344,7 @@
   },
   {
    "domain": "sise-erp.sante.gouv.fr",
-   "url": "https://sise-erp.sante.gouv.fr/sise-erp/pages/common/login.faces;jsessionid=E21BB8CBE1725A4AD58CDB4BF7347629.sf-siseerpc1",
+   "url": "https://sise-erp.sante.gouv.fr/sise-erp/pages/common/login.faces;jsessionid=F1D598F301DB519BF6A800785B99E9FB.sf-siseerpc1",
    "title": "SISE-ERP",
    "description": "",
    "category": "sante",
@@ -9985,7 +10390,7 @@
   {
    "domain": "sitadel2.din.developpement-durable.gouv.fr",
    "url": "https://sitadel2.din.developpement-durable.gouv.fr/",
-   "title": "Maintenance en cours",
+   "title": "Fermeture définitive",
    "description": "",
    "category": "environnement",
    "group": "gouv",
@@ -10029,7 +10434,7 @@
   },
   {
    "domain": "snds.gouv.fr",
-   "url": "https://www.snds.gouv.fr/SNDS/Accueil",
+   "url": "https://snds.gouv.fr/SNDS/Accueil",
    "title": "Accueil | SNDS",
    "description": "Accueil",
    "category": "autres",
@@ -10042,6 +10447,15 @@
    "title": "SNE : MCTRCT – Site des professionnels",
    "description": "Le site des professionnels du SNE diffuse toutes les informations techniques et métier relatives à la gestion de la demande de logement social.",
    "category": "logement",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "snee.enseignementsup-recherche.gouv.fr",
+   "url": "https://snee.enseignementsup-recherche.gouv.fr/fr/",
+   "title": "Accueil | Statut National Étudiant-Entrepreneur",
+   "description": "",
+   "category": "education",
    "group": "gouv",
    "verified": true
   },
@@ -10424,10 +10838,19 @@
    "verified": true
   },
   {
+   "domain": "status.tchap.numerique.gouv.fr",
+   "url": "https://status.tchap.numerique.gouv.fr/en/",
+   "title": "Tchap - Etat des services",
+   "description": "",
+   "category": "numerique",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "status.trackdechets.beta.gouv.fr",
    "url": "https://status.trackdechets.beta.gouv.fr/",
    "title": "Trackdechets API status page",
-   "description": "Status on last indexing (05 Oct 10:56 UTC) → 100% uptime (1 month) · 82 ms average response time · 1.0 Apdex (0.5s)",
+   "description": "Status on last indexing (12 Oct 11:32 UTC) → 100% uptime (1 month) · 77 ms average response time · 1.0 Apdex (0.5s)",
    "category": "numerique",
    "group": "gouv",
    "verified": true
@@ -10586,6 +11009,15 @@
    "verified": true
   },
   {
+   "domain": "support.snu.gouv.fr",
+   "url": "https://support.snu.gouv.fr/base-de-connaissance",
+   "title": "SNU - Base de connaissance",
+   "description": "",
+   "category": "culture",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "sve.derogationbio.inao.gouv.fr",
    "url": "https://sve.derogationbio.inao.gouv.fr/",
    "title": "Dérogation bio",
@@ -10739,6 +11171,15 @@
    "verified": true
   },
   {
+   "domain": "taxesejour.impots.gouv.fr",
+   "url": "https://taxesejour.impots.gouv.fr/FR/",
+   "title": "Délibérations sur les taxes de séjour",
+   "description": "",
+   "category": "finances",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "tchap.gouv.fr",
    "url": "https://www.tchap.gouv.fr/",
    "title": "Tchap - la messagerie instantanée des agents de la fonction publique",
@@ -10856,15 +11297,6 @@
    "verified": true
   },
   {
-   "domain": "template.data.gouv.fr",
-   "url": "https://template.data.gouv.fr/",
-   "title": "Tagline libérer les données sans effort et sur data.gouv.fr - template.data.gouv.fr",
-   "description": "Tagline libérer les données sans effort et sur data.gouv.fr",
-   "category": "numerique",
-   "group": "gouv",
-   "verified": true
-  },
-  {
    "domain": "tep-region.creps-rhonealpes.sports.gouv.fr",
    "url": "https://tep-region.creps-rhonealpes.sports.gouv.fr/",
    "title": "TEP Région",
@@ -10942,6 +11374,24 @@
    "title": "Equipe Support - ANAIS",
    "description": "customer support platform",
    "category": "numerique",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "tom.eservices.esante.gouv.fr",
+   "url": "https://tom.eservices.esante.gouv.fr/tom/pageAccueil/index.html",
+   "title": "ANS : TOM - Service de Gestion",
+   "description": "",
+   "category": "autres",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "tous-connectes.anct.gouv.fr",
+   "url": "https://tous-connectes.anct.gouv.fr/",
+   "title": "Toutes et tous connectées",
+   "description": "",
+   "category": "autres",
    "group": "gouv",
    "verified": true
   },
@@ -11221,6 +11671,15 @@
    "title": "Valflux",
    "description": "Liste toutes les données environnementales de la région Normandie",
    "category": "environnement",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "valid-p1.sisiao.dihal.gouv.fr",
+   "url": "https://valid-p1.sisiao.dihal.gouv.fr/",
+   "title": "Maintenance en cours",
+   "description": "",
+   "category": "autres",
    "group": "gouv",
    "verified": true
   },
@@ -11558,6 +12017,15 @@
    "verified": true
   },
   {
+   "domain": "webinaire.numerique.gouv.fr",
+   "url": "https://webinaire.numerique.gouv.fr/home",
+   "title": "Webinaire de l'État",
+   "description": "",
+   "category": "numerique",
+   "group": "gouv",
+   "verified": true
+  },
+  {
    "domain": "webissimo-ide.developpement-durable.gouv.fr",
    "url": "https://webissimo-ide.developpement-durable.gouv.fr/",
    "title": "Accueil | Webissimo IDE",
@@ -11626,6 +12094,15 @@
    "title": "Support Deveco",
    "description": "",
    "category": "numerique",
+   "group": "gouv",
+   "verified": true
+  },
+  {
+   "domain": "zensa.ensm.sports.gouv.fr",
+   "url": "https://zensa.ensm.sports.gouv.fr/users/login",
+   "title": "Le site des Examens ENSM : Users",
+   "description": "",
+   "category": "culture",
    "group": "gouv",
    "verified": true
   },
@@ -11726,7 +12203,7 @@
    "description": "Sécurité sanitaire de l'alimentation, de l'environnement et du travail.",
    "category": "sante",
    "group": "public",
-   "verified": false
+   "verified": true
   },
   {
    "domain": "apec.fr",
@@ -11777,10 +12254,10 @@
    "domain": "assemblee-nationale.fr",
    "url": "https://www.assemblee-nationale.fr/",
    "title": "Assemblée nationale",
-   "description": "",
+   "description": "Presentation de l'Assemblee nationale, du palais Bourbon, de ses membres (deputes), de son fonctionnement et de son actualite : agenda, travaux en cours (amendements, rapports, commissions, lois), textes et dossiers (legislatifs ou d'actualite)...",
    "category": "institutions",
    "group": "public",
-   "verified": false
+   "verified": true
   },
   {
    "domain": "autoritedelaconcurrence.fr",
@@ -11825,7 +12302,7 @@
    "description": "Service géologique national.",
    "category": "environnement",
    "group": "public",
-   "verified": false
+   "verified": true
   },
   {
    "domain": "businessfrance.fr",
@@ -11879,7 +12356,7 @@
    "description": "",
    "category": "finances",
    "group": "public",
-   "verified": false
+   "verified": true
   },
   {
    "domain": "cea.fr",
@@ -11903,10 +12380,10 @@
    "domain": "cerema.fr",
    "url": "https://www.cerema.fr/",
    "title": "Cerema",
-   "description": "",
+   "description": "Accompagner les territoires dans le défi de l’adaptation au changement climatique en apportant des solutions sur-mesure aussi bien aux collectivités qu’aux maîtres d’ouvrage, aux entreprises ou aux porteurs des politiques publiques.",
    "category": "environnement",
    "group": "public",
-   "verified": false
+   "verified": true
   },
   {
    "domain": "chateauversailles.fr",
@@ -11948,10 +12425,10 @@
    "domain": "cnrs.fr",
    "url": "https://www.cnrs.fr/",
    "title": "CNRS",
-   "description": "",
+   "description": "Le Centre national de la recherche scientifique est le plus grand organisme public français de recherche scientifique. Il exerce son activité dans tous les domaines de la connaissance.",
    "category": "education",
    "group": "public",
-   "verified": false
+   "verified": true
   },
   {
    "domain": "conseil-constitutionnel.fr",
@@ -12038,10 +12515,10 @@
    "domain": "francetravail.fr",
    "url": "https://www.francetravail.fr/",
    "title": "France Travail",
-   "description": "",
+   "description": "Accueil | France Travail",
    "category": "emploi",
    "group": "public",
-   "verified": false
+   "verified": true
   },
   {
    "domain": "has-sante.fr",
@@ -12086,7 +12563,7 @@
    "description": "Portail commun des régimes de retraite.",
    "category": "sante",
    "group": "public",
-   "verified": false
+   "verified": true
   },
   {
    "domain": "infogreffe.fr",
@@ -12131,7 +12608,7 @@
    "description": "Statistiques et études économiques.",
    "category": "numerique",
    "group": "public",
-   "verified": false
+   "verified": true
   },
   {
    "domain": "inserm.fr",
@@ -12155,10 +12632,10 @@
    "domain": "lassuranceretraite.fr",
    "url": "https://www.lassuranceretraite.fr/",
    "title": "L'Assurance retraite",
-   "description": "",
+   "description": "Site internet officiel de l'Assurance retraite – Informations sur la retraite et l'action sociale et les démarches en ligne.",
    "category": "sante",
    "group": "public",
-   "verified": false
+   "verified": true
   },
   {
    "domain": "lecese.fr",
@@ -12209,10 +12686,10 @@
    "domain": "msa.fr",
    "url": "https://www.msa.fr/",
    "title": "MSA, Mutualité sociale agricole",
-   "description": "",
+   "description": "La MSA gère la santé, la famille, la retraite et les accidents du travail des exploitants et salariés agricoles, et perçoit les cotisations sociales auprès des entreprises relevant du régime agricole.",
    "category": "sante",
    "group": "public",
-   "verified": false
+   "verified": true
   },
   {
    "domain": "musee-orsay.fr",
@@ -12338,7 +12815,7 @@
    "description": "",
    "category": "education",
    "group": "public",
-   "verified": false
+   "verified": true
   },
   {
    "domain": "unedic.org",
@@ -12371,10 +12848,10 @@
    "domain": "vnf.fr",
    "url": "https://www.vnf.fr/",
    "title": "Voies navigables de France",
-   "description": "",
+   "description": "Opérateur national de l'ambition fluviale, Voies navigables de France gère 2 réseaux fluviaux complémentaires (frêt et tourisme), autour de 3 missions.",
    "category": "transports",
    "group": "public",
-   "verified": false
+   "verified": true
   }
  ]
 }
